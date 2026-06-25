@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="header" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshvrdhnsingh&label=visitors&color=0e75b6&style=flat" alt="hrshvrdhnsingh" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil06112&label=visitors&color=0e75b6&style=flat" alt="nikhil06112" /> </p> 
 
 <p align="center">
   <a href="https://cooltext.com"><img src="https://images.cooltext.com/5730979.png" width="425" height="70" alt="Hello there" /></a>
@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/hrshvrdhnsingh/github-readme-stats">
+  <a href="https://github.com/nikhil06112/github-readme-stats">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=hrshvrdhnsingh&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a> <a href="https://github.com/hrshvrdhnsingh/convoychat">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshvrdhnsingh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  </a> <a href="https://github.com/nikhil06112/convoychat">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil06112&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p> 
 <p align="center">
@@ -27,7 +27,7 @@
 <h2 align="left">📬 Get in Touch:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshvardhan-singh-4p3sh17" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhil-chouhan-910b82264/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
