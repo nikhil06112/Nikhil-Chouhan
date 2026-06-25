@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://github.com/nikhil06112/github-readme-stats">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=hrshvrdhnsingh&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil06112&show_icons=true&theme=tokyonight&hide_border=true" />
   </a> <a href="https://github.com/nikhil06112/convoychat">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil06112&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p> 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshvrdhnsingh&theme=tokyonight&hide_border=true" alt="hrshvrdhnsingh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil06112&theme=tokyonight&hide_border=true" alt="nikhil06112" />
 </p>
 
 <br/>
